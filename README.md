@@ -1,2 +1,2 @@
-# jax_101
-Short intro to Jax with minimal toy examples
+# JAX FOR BEGINNERS, NOVIES AND EXPERTS
+This is a short presentation with code snippets to introduce the [JAX library](https://jax.readthedocs.io/en/latest/quickstart.html)
