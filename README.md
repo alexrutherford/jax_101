@@ -10,5 +10,5 @@ matplotlib: 3.8.4
 
 Jupyter Notebook extensions
 
-[RISE - to render notebooks as reveal.js presentations](https://rise.readthedocs.io/en/latest/)
+[RISE - to render notebooks as reveal.js presentations](https://rise.readthedocs.io/en/latest/)  
 [hide-code - to hide input commands](https://github.com/kirbs-/hide_code)
